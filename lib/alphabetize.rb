@@ -1,5 +1,5 @@
 ESPERANTO_ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-  def alphabetize(arr)		  def alphabetize(arr)
+  def alphabetize(arr)
 
      positions = []
      a.each_char do |char|
@@ -8,4 +8,4 @@ ESPERANTO_ALPHABET = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
      positions
    end
    arr
- 	end 
+ 	end
